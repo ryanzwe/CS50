@@ -1,0 +1,55 @@
+.titles
+{
+    border-style: groove;
+    border-width: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 50px;
+    padding:  15px;
+    font-size: 2pc;
+}
+.smallImg
+{
+    width:  auto;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navMenu
+{
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height:auto;
+    background-color:  grey;
+    margin: 0px;
+    border-style:  none;
+}
+div
+{
+    margin: 20px;
+    margin-bottom:  80px;
+    padding: 0px;
+    border-width: 1px;
+    border-style: groove;
+}
+.navMenuCell:hover
+{
+    background-color:#AAAA;
+    font-size: 115%; 
+}
+a
+{
+    color: white;
+}
+.strongForm
+{
+    text-align: left;
+    padding: 0px;
+    border-bottom-style: solid;
+    margin: 0px;
+    overflow: hidden;
+}
+
